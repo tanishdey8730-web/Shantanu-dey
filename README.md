@@ -46,7 +46,7 @@ Hi, I'm Shantanu Dey 👋
 🚗 Used Car Price Prediction
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Car+Price+Prediction" />
+  <img src="oo.jpg"width="500" />
 </p>- Random Forest Model for prediction
 - Data analysis of 28+ years dataset
 
@@ -55,7 +55,7 @@ Hi, I'm Shantanu Dey 👋
 🌐 Sharda Setu (SIH 2025)
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Sharda+Setu+Platform" />
+  <img src="sh.jpg"width="500" />
 </p>- Reduced load time by 60%
 - Optimized for low bandwidth
 
