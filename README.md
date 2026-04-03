@@ -162,12 +162,6 @@
 - 🧳 Developed TripGo booking platform
 
 
-🏆 Achievements
-
-🏅 National Level Football Player
-🏃 National Level Athlete
-⚽ Captain of College Football Team
-
 ---
 
 📫 Connect With Me
