@@ -93,7 +93,7 @@ Hi, I'm Shantanu Dey 👋
 <p align="center">
   <img src="./images/tripgo.png" width="700"/>
 </p><p align="center">
-  <a href="#">
+  <a href="https://tanishdey8730-web.github.io/tripgo/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087">
