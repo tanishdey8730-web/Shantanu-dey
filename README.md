@@ -24,12 +24,13 @@ Hi, I'm Shantanu Dey 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishdey8730-web&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=tanishdey8730-web&theme=tokyonight" />
-</p>---
+  <img src="https://streak-stats.demolab.com?user=tanishdey8730-web&theme=tokyonight" />
+</p>
+
 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdey8730-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdey8730-web&layout=compact&theme=tokyonight" />
 </p>
 
 👀 Profile Views
