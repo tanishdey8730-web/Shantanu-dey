@@ -61,6 +61,27 @@ Hi, I'm Shantanu Dey 👋
 
 ---
 
+### 🧳 TripGo – Online Hotel & Ticket Booking Platform  
+
+<p align="center">
+  <img src="./images/tripgo.png" width="700"/>
+</p>
+
+<p align="center">
+  <a href="YOUR_LIVE_LINK_HERE">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/shanshan873087/YOUR_REPO_NAME">
+    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
+  </a>
+</p>
+
+- Developed an online platform for hotel and ticket booking  
+- Designed user-friendly UI for seamless booking experience  
+- Focused on performance and responsiveness  
+- Built as part of Smart India Hackathon (SIH 2024)
+
+
 🏆 Achievements
 
 🏅 National Level Football Player
