@@ -23,7 +23,7 @@ Hi, I'm Shantanu Dey 👋
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanudey&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishdey873087-web&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudey&theme=tokyonight" />
 </p>---
 📊 Top Languages
@@ -47,7 +47,7 @@ Hi, I'm Shantanu Dey 👋
 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuDey&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishdey8730-web&theme=react-dark" />
 </p>---
 
 🚀 Projects
