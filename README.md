@@ -23,8 +23,8 @@ Hi, I'm Shantanu Dey 👋
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanshan873087&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanshan873087&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanudey&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudey&theme=tokyonight" />
 </p>---
 
 📈 Activity Graph
@@ -57,9 +57,9 @@ Hi, I'm Shantanu Dey 👋
 🚗 Used Car Price Prediction
 
 <p align="center">
-  <img src="./images/car.png" width="700"/>
+  <img src="oo.jpg" width="200"/>
 </p><p align="center">
-  <a href="#">
+  <a href="https://tanishdey8730-web.github.io/project-1-/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087">
