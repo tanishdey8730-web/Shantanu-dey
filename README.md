@@ -31,12 +31,12 @@ Hi, I'm Shantanu Dey 👋
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://shanshan873087.github.io/moviefilxpro/">
+<td width="50%" align="center"><a href="https://tanishdey8730-web.github.io/movieflixpro">
   <img src="img.png" width="100%" />
 </a>🎬 Movie Recommendation System
 
 <p>
-  <a href="https://shanshan873087.github.io/moviefilxpro/">
+  <a href="https://tanishdey8730-web.github.io/movieflixpro">
     <img src="https://img.shields.io/badge/🌐 Live Demo-00C853?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087/moviefilxpro">
