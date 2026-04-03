@@ -25,55 +25,8 @@ Hi, I'm Shantanu Dey 👋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishdey8730-web&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=tanishdey8730-web&theme=tokyonight" />
-</p>
+</p>---
 
-📊 Projects Cards
-
-<table>
-<tr>
-<td width="50%" align="center"><a href="https://tanishdey8730-web.github.io/movieflixpro">
-  <img src="img.png" width="100%" />
-</a>🎬 Movie Recommendation System
-
-<p>
-  <a href="https://tanishdey8730-web.github.io/movieflixpro">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-00C853?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/shanshan873087/moviefilxpro">
-    <img src="https://img.shields.io/badge/💻 Code-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p></td><td width="50%" align="center"><img src="./images/car.png" width="100%" />🚗 Used Car Price Prediction
-
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-9E9E9E?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/shanshan873087">
-    <img src="https://img.shields.io/badge/💻 Code-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p></td>
-</tr><tr>
-<td width="50%" align="center"><img src="./images/sharda.png" width="100%" />🌐 Sharda Setu
-
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-9E9E9E?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/shanshan873087">
-    <img src="https://img.shields.io/badge/💻 Code-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p></td><td width="50%" align="center"><img src="./images/tripgo.png" width="100%" />🧳 TripGo
-
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-9E9E9E?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/shanshan873087">
-    <img src="https://img.shields.io/badge/💻 Code-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p></td>
-</tr>
-</table>
 
 👀 Profile Views
 
