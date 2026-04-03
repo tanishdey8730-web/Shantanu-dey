@@ -41,7 +41,7 @@ Hi, I'm Shantanu Dey 👋
 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https:shantanudey2004/theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/https:shantanudey2004theme=dark&font=Baloo&ext=contest" />
 </p>
 
 📈 Activity Graph
