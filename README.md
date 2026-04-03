@@ -35,51 +35,73 @@ Hi, I'm Shantanu Dey 👋
 
 🚀 Projects
 
+---
+
 🎬 Movie Recommendation System
+
 <p align="center">
-  <img src="im.jpg"width="500"/>
+  <img src="./images/movie.png" width="700"/>
+</p><p align="center">
+  <a href="https://shanshan873087.github.io/moviefilxpro/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/shanshan873087/moviefilxpro">
+    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
+  </a>
 </p>- Built using TF-IDF & Cosine Similarity
 - Personalized recommendations using ML
+- Clean UI and responsive design
 
 ---
 
 🚗 Used Car Price Prediction
 
 <p align="center">
-  <img src="oo.jpg"width="500" />
-</p>- Random Forest Model for prediction
-- Data analysis of 28+ years dataset
+  <img src="./images/car.png" width="700"/>
+</p><p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/shanshan873087">
+    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
+  </a>
+</p>- Random Forest model for price prediction
+- Analysis of 28+ years dataset
+- Found key insights like depreciation trends
 
 ---
 
 🌐 Sharda Setu (SIH 2025)
 
 <p align="center">
-  <img src="sh.jpg"width="500" />
-</p>- Reduced load time by 60%
-- Optimized for low bandwidth
+  <img src="./images/sharda.png" width="700"/>
+</p><p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/shanshan873087">
+    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
+  </a>
+</p>- Low-bandwidth e-learning platform
+- Reduced page load by 60%
+- Designed for rural connectivity
 
 ---
 
-### 🧳 TripGo – Online Hotel & Ticket Booking Platform  
+🧳 TripGo – Booking Platform
 
 <p align="center">
   <img src="./images/tripgo.png" width="700"/>
-</p>
-
-<p align="center">
-  <a href="YOUR_LIVE_LINK_HERE">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
+</p><p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/shanshan873087/YOUR_REPO_NAME">
+  <a href="https://github.com/shanshan873087">
     <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
   </a>
-</p>
-
-- Developed an online platform for hotel and ticket booking  
-- Designed user-friendly UI for seamless booking experience  
-- Focused on performance and responsiveness  
-- Built as part of Smart India Hackathon (SIH 2024)
+</p>- Online hotel & ticket booking system
+- User-friendly UI/UX design
+- Built during SIH 2024
 
 
 🏆 Achievements
