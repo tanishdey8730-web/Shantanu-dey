@@ -45,7 +45,7 @@ Hi, I'm Shantanu Dey 👋
   <a href="https://tanishdey8730-web.github.io/movieflixpro/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/shanshan873087/moviefilxpro">
+  <a href="https://https://github.com/tanishdey8730-web/movieflixpro.git">
     <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
   </a>
 </p>- Built using TF-IDF & Cosine Similarity
