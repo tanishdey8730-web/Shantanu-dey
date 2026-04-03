@@ -29,7 +29,7 @@ Hi, I'm Shantanu Dey 👋
 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdey8730-web&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdey8730-web&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 👀 Profile Views
@@ -41,7 +41,7 @@ Hi, I'm Shantanu Dey 👋
 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https:shantanudey2004?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/shantanudey2004?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 📈 Activity Graph
