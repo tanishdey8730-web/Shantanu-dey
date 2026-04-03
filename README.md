@@ -37,7 +37,7 @@ Hi, I'm Shantanu Dey 👋
 
 🎬 Movie Recommendation System
 <p align="center">
-  <img src="im.jpg"
+  <img src="im.jpg"width="500"/>
 </p>- Built using TF-IDF & Cosine Similarity
 - Personalized recommendations using ML
 
