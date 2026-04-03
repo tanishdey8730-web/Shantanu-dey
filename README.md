@@ -29,12 +29,10 @@ Hi, I'm Shantanu Dey 👋
 
 📊 Projects Cards
 
-🚀 Projects
-
 <table>
 <tr>
 <td width="50%" align="center"><a href="https://shanshan873087.github.io/moviefilxpro/">
-  <img src="./images/movie.png" width="100%" />
+  <img src="img.png" width="100%" />
 </a>🎬 Movie Recommendation System
 
 <p>
