@@ -118,6 +118,49 @@
 - User-friendly UI/UX design
 - Built during SIH 2024
 
+---
+📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-IBM-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Coursera-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Introduction%20to%20AI-Coursera-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning%20(Keras)-Coursera-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs%20Architecture-Coursera-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Design%20Thinking-Coursera-blueviolet?style=for-the-badge"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/DSA%20Foundations-University%20of%20Colorado-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-IBM-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Active%20Listening-Coursera-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code%20With%20Harry-Python%20%26%20Data%20Science-red?style=for-the-badge"/>
+</p>---
+
+🏆 Achievements & Activities
+
+- ⚽ National Level Football Player (U-19)
+- 🏃 National Level Athlete (100m & 200m)
+- 🏆 Captain of College Football Team
+- 🎸 Skilled in Guitar & Drumset
+- 🚀 Participated in Smart India Hackathon (SIH 2024 & 2025)
+
+---
+
+💼 Experience
+
+- 💻 RTNS (RT Network) – Internship (Ongoing)
+- 🏢 XPMC – Internship
+
+---
+
+🎯 Highlights
+
+- 📊 Built ML models for real-world datasets (Car Price Prediction)
+- 🎬 Developed Movie Recommendation System using ML
+- 🌐 Created low-bandwidth EdTech platform (Sharda Setu)
+- 🧳 Developed TripGo booking platform
+
 
 🏆 Achievements
 
