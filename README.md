@@ -24,7 +24,7 @@ Hi, I'm Shantanu Dey 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishdey873087-web&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudey&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishdey8730-web&theme=tokyonight" />
 </p>---
 📊 Top Languages
 
