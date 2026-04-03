@@ -1,7 +1,7 @@
 Hi, I'm Shantanu Dey 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Machine+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=800808&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Machine+Learning+Enthusiast" />
 </p>---
 
 🚀 About Me
@@ -74,7 +74,7 @@ Hi, I'm Shantanu Dey 👋
 <p align="center">
 <a href="mailto:tanishdey8730@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shantanu-dey-86715b284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https:https://github.com/tanishdey8730-web"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/tanishdey8730-web"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>---
 
 ⚡ Fun Fact
