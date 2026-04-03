@@ -42,7 +42,7 @@ Hi, I'm Shantanu Dey 👋
 <p align="center">
   <img src="./im,jpg" width="200"/>
 </p><p align="center">
-  <a href="https://shanshan873087.github.io/moviefilxpro/">
+  <a href="https://tanishdey8730-web.github.io/movieflixpro/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087/moviefilxpro">
