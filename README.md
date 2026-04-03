@@ -36,10 +36,11 @@ Hi, I'm Shantanu Dey 👋
 🚀 Projects
 
 🎬 Movie Recommendation System
-
 <p align="center">
-  <img src="https://<img width="225" height="224" alt="im" src="https://github.com/user-attachments/assets/3fa381a0-71e4-405a-9df1-bd5a90b87d20" />
-</p>- Built using TF-IDF & Cosine Similarity
+  <img src="<img width="225" height="224" alt="im" src="https://github.com/user-attachments/assets/e6e43e0a-2207-479c-80b9-ecff548f63fc" />
+" width="400"/>
+</p>
+- Built using TF-IDF & Cosine Similarity
 - Personalized recommendations using ML
 
 ---
