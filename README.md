@@ -30,7 +30,7 @@ Hi, I'm Shantanu Dey 👋
 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanshan873087&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu Dey&theme=react-dark" />
 </p>---
 
 🚀 Projects
@@ -42,7 +42,7 @@ Hi, I'm Shantanu Dey 👋
 <p align="center">
   <img src="im.jpg" width="200"/>
 </p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/movieflixpro/">
+  <a href="https://tanishdey8730-web.github.io/movieflixpro">
     <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
   </a>
   <a href="https://https://github.com/tanishdey8730-web/movieflixpro.git">
@@ -59,7 +59,7 @@ Hi, I'm Shantanu Dey 👋
 <p align="center">
   <img src="oo.jpg" width="200"/>
 </p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/project-1-/">
+  <a href="#">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087">
@@ -74,9 +74,9 @@ Hi, I'm Shantanu Dey 👋
 🌐 Sharda Setu (SIH 2025)
 
 <p align="center">
-  <img src="./images/sharda.png" width="700"/>
+  <img src="sh.jpg" width="200"/>
 </p><p align="center">
-  <a href="#">
+  <a href="https://tanishdey8730-web.github.io/project-1-/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087">
