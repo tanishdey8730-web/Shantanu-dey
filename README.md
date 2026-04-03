@@ -30,7 +30,7 @@ Hi, I'm Shantanu Dey 👋
 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanu Dey&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantanuDey&theme=react-dark" />
 </p>---
 
 🚀 Projects
