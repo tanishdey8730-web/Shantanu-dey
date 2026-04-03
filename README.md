@@ -1,52 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Gradient Glow Text</title>
-
-<style>
-body {
-  background: #0f0f0f;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-}
-
-.glow-text {
-  font-size: 60px;
-  font-weight: 800;
-  text-align: center;
-  background: linear-gradient(90deg, #00f7ff, #ff00c8, #00f7ff);
-  background-size: 200%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-  text-shadow:
-    0 0 10px rgba(0, 247, 255, 0.8),
-    0 0 20px rgba(255, 0, 200, 0.7),
-    0 0 40px rgba(0, 247, 255, 0.6);
-
-  animation: glowMove 3s linear infinite;
-}
-
-@keyframes glowMove {
-  0% { background-position: 0%; }
-  100% { background-position: 200%; }
-}
-</style>
-</head>
-
-<body>
-
-<h1 class="glow-text">
-  Hi, I am Shantanu Dey
+<h1>
+  Hi, I am <span style="color:#00f7ff;">Shantanu Dey</span>
 </h1>
-
-</body>
-</html>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=800808&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Machine+Learning+Enthusiast" />
