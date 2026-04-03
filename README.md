@@ -26,6 +26,23 @@ Hi, I'm Shantanu Dey 👋
   <img src="https://github-readme-stats.vercel.app/api?username=shantanudey&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudey&theme=tokyonight" />
 </p>---
+📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishdey8730-web&layout=compact&theme=tokyonight" />
+</p>---
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanishdey8730-web&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>---
+
+🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+</p>
 
 📈 Activity Graph
 
