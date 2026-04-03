@@ -40,7 +40,7 @@ Hi, I'm Shantanu Dey 👋
 🎬 Movie Recommendation System
 
 <p align="center">
-  <img src="./images/movie.png" width="700"/>
+  <img src="./im,jpg" width="200"/>
 </p><p align="center">
   <a href="https://shanshan873087.github.io/moviefilxpro/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
