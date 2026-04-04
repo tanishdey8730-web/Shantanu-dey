@@ -80,7 +80,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/shanshan873087">
+  <a href="https://github.com/tanishdey8730-web/used-car-prediction.git">
     <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
   </a>
 </p>- Random Forest model for price prediction
