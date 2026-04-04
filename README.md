@@ -125,7 +125,7 @@
 🧠 ResumeIQ – AI Resume Analyzer
 
 <p align="center"> <img src="resumee.jpg" width="100"/> 
-</p> <p align="center"> <a href="YOUR_LIVE_LINK_HERE"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="YOUR_GITHUB_REPO_LINK_HERE"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 ---
