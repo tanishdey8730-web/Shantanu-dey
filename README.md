@@ -171,7 +171,7 @@
 - 🎬 Developed Movie Recommendation System using ML
 - 🌐 Created low-bandwidth EdTech platform (Sharda Setu)
 - 🧳 Developed TripGo booking platform
-
+- 🧠 ResumeIQ – AI Resume Analyzer
 
 ---
 
