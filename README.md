@@ -94,7 +94,7 @@
 <p align="center">
   <img src="sh.jpg" width="200"/>
 </p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/project-1-/">
+  <a href="https://tanishdey8730-web.github.io/shardasetu01/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/shanshan873087">
