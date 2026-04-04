@@ -77,7 +77,7 @@
 <p align="center">
   <img src="oo.jpg" width="200"/>
 </p><p align="center">
-  <a href=" https://tanishdey8730-web.github.io/used-car-prediction/">
+  <a href="https://tanishdey8730-web.github.io/used-car-prediction/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/tanishdey8730-web/used-car-prediction.git">
