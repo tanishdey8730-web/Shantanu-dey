@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="im.jpg" width="100"/>
+  <img src="shan.jpg.jpeg" width="100"/>
 </p>
 <h1>
   Hi, I am <span style="color:#00f7ff;">Shantanu Dey</span>
