@@ -2,7 +2,7 @@
   <img src="shan.jpg.jpeg" width="100"/>
 </p>
 <h1>
-  Hi, I am <span style="color:#00f7ff;">Shantanu Dey</span>
+  Hi, I am <span style="color:#000080.;">Shantanu Dey</span>
 </h1>
 
 <p align="center">
