@@ -60,7 +60,7 @@
   <a href="https://tanishdey8730-web.github.io/Movieflixpro01/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
   </a>
-  <a href="https:https://github.com/tanishdey8730-web/Movieflixpro01.git">
+  <a href="https://github.com/tanishdey8730-web/Movieflixpro01.git">
     <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
   </a>
 </p>- Built using TF-IDF & Cosine Similarity
