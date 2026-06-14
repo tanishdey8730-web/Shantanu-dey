@@ -1,7 +1,7 @@
 <p align="left">
   <img src="shan.jpg.jpeg" width="100"/>
   <p align="center"> <img src="place.png" width="200"/> 
-</p> <p align="center"> <a href=""> <img src="https://img.shields.io/badge/🌐 Visit My Portfolio -grey?style=for-the-badge"/> </a>
+</p> <p align="center"> <a href=""> <img src="/🌐 Visit My Portfolio -grey?style=for-the-badge"/> </a>
 </p>
 <h1>
   Hi, I am <span style="color:#000080.;">Shantanu Dey</span>
