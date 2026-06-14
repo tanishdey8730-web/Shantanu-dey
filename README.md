@@ -1,8 +1,8 @@
 <p align="left">
   <img src="shan.jpg.jpeg" width="100"/>
   <p align="center"> <img src="place.png" width="200"/> 
-</p> <p align="center"> <a href=""> <img src="/🌐 Visit My Portfolio -grey?style=for-the-badge"/> </a>
 </p>
+<a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a>
 <h1>
   Hi, I am <span style="color:#000080.;">Shantanu Dey</span>
 </h1>
