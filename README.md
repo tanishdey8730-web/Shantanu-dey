@@ -1,7 +1,8 @@
 <p align="left">
   <img src="shan.jpg.jpeg" width="100"/> 
-  
-<a href="//https://my-protfolio-lemon-five.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Visit My Portfoilio -grey?style=for-the-badge"/> </a>
+  </p>
+<p
+    <a href="//https://my-protfolio-lemon-five.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Visit My Portfoilio -grey?style=for-the-badge"/> </a>
 </p>
 <h1>
   Hi, I am <span style="color:#000080.;">Shantanu Dey</span>
