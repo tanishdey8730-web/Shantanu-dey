@@ -2,7 +2,7 @@
   <img src="shan.jpg.jpeg" width="100"/> 
   </p>
 <p
-    <a href="//https://my-protfolio-lemon-five.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Visit My Portfoilio -grey?style=for-the-badge"/> </a>
+    <a href="https://place-pro-web.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Visit My Portfoilio -grey?style=for-the-badge"/> </a>
 </p>
 <h1>
   Hi, I am <span style="color:#000080.;">Shantanu Dey</span>
