@@ -1,8 +1,8 @@
-<p> align="left">
+<p align="left">
   <img src="shan.jpg.jpeg" width="100"/> 
   </p>
 <p>
-    <a href="https://tanishdey8730-web.github.io/Shantanu_Dey_Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/🌐 Visit My Portfoilio -grey?style=for-the-badge"/> </a>
+    <a href="https://tanishdey8730-web.github.io/Shantanu_Dey_Portfolio/" target="_blank"> <img src="https://img.shields.io/badge/🌐 Visit My Portfoilio -grey?         style=for-the-badge"/> </a>
 </p>
 <h1>
   Hi, I am <span style="color:#000080.;">Shantanu Dey</span>
